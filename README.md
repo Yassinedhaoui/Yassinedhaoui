@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:00d4aa&height=120&section=header&text=Yassine%20Dhaoui&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:00d4aa&height=180&section=header&text=Yassine%20Dhaoui&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 # `> Yassine Dhaoui`
 
