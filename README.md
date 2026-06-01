@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:00d4aa&height=180&section=header&text=Yassine%20Dhaoui&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:00d4aa&height=300&section=header&text=Yassine%20Dhaoui&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-# `> Yassine Dhaoui`
-
-**Étudiant en Ingénierie Réseaux Informatiques & Systèmes**
+**<h1>Étudiant en Ingénierie Réseaux Informatiques & Systèmes </h1>**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20Dhaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-dhaoui-b67a02321)
 [![Email](https://img.shields.io/badge/Email-yassine.dhaoui%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:yassine.dhaoui@outlook.com)
