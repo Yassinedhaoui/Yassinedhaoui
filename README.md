@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://kapa-banner.vercel.app/api/banner?text=Yassine%20Dhaoui&desc=Ing%C3%A9nieur%20R%C3%A9seaux%20%26%20Syst%C3%A8mes&theme=dark" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=185FA5&center=true&vCenter=true&width=800&lines=%C3%89tudiant+Ing%C3%A9nierie+R%C3%A9seaux+%26+Syst%C3%A8mes;Cisco+%7C+Linux+%7C+Windows+Server;Passionn%C3%A9+de+r%C3%A9seaux+et+s%C3%A9curit%C3%A9+informatique)](https://git.io/typing-svg)
-
-</div>
-.....
 
 <div align="center">
 
